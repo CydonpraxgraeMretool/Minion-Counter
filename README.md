@@ -1,3 +1,5 @@
 # Minion-Counter
 See how many minions you have. Count them with the minilimist c++ progam called MInion Counter.
-:radioactive:
+<a>
+  <img src="https://github.com/CydonpraxgraeMretool/Minion-Counter/blob/main/minion-counter.png" width="318px" alt="Minion Counter" />
+</a>
